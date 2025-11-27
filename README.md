@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-tiago.vercel.app/api?username=tiagomiotto&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tiagomiotto&theme=transparent&hide_border=false)<br/>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tiagomiotto&icon=0&color=0)](https://visitcount.itsvg.in)
